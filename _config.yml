@@ -22,8 +22,8 @@ avatar: https://i.imgur.com/9nDjFzp.png
 navigation:
   - name: Home
     url: /
-  - name: Contact
-    url: /
+  - name: Pool
+    url: https://pool.gangnam.pro
 
 # Pagination
 paginate: 5
